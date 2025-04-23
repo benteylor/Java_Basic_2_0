@@ -1,4 +1,4 @@
-package test_suite;
+package suite01;
 
 public class II_Data_types_variables {
 

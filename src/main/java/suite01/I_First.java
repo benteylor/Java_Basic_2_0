@@ -1,4 +1,4 @@
-package test_suite;
+package suite01;
 
 class I_First {
 
