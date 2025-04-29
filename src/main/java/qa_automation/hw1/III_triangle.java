@@ -9,6 +9,8 @@ public class III_triangle {
 
         double c = 0.5 * a * b;
 
+        double d = 0.6 * a * b;
+
      System.out.print("Площадь прямоугольного треугольника = " + c);
 
     }
