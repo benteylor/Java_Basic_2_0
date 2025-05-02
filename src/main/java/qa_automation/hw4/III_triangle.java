@@ -1,4 +1,4 @@
-package qa_automation.hw1;
+package qa_automation.hw4;
 
 public class III_triangle {
     public static void main (String [] args) {
