@@ -1,4 +1,4 @@
-package qa_automation.hw1;
+package qa_automation.hw4;
 
 import java.util.Scanner;
 

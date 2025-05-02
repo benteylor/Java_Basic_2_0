@@ -1,6 +1,6 @@
 package suite02;
 
-public class if_else {
+public class I_if_else {
 
     public static void main(String[] args) {
 

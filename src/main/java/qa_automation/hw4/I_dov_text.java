@@ -1,4 +1,4 @@
-package qa_automation.hw1;
+package qa_automation.hw4;
 
 public class I_dov_text {
     public static void main (String[] Args) {
